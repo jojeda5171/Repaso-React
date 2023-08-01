@@ -8,3 +8,5 @@
         npm install -g serve
     * Ejecutar el server
         serve -s build
+* Levanta el entorno de prueba (levanta el App.js)
+    npm run test
