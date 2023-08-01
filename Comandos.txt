@@ -1,1 +1,10 @@
-npx create-react-app my-app
+* Crea el proyecto
+    npx create-react-app my-app
+* Inicia el server
+    npm start
+* Genera el build de la aplicacion 
+    npm run build
+    * Instalar el servidor que sugiere react
+        npm install -g serve
+    * Ejecutar el server
+        serve -s build
